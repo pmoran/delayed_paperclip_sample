@@ -19,6 +19,7 @@ end
 gem 'jquery-rails'
 
 gem 'delayed_paperclip',  '0.7.2'
+gem 'resque'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
